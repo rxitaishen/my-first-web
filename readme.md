@@ -16,9 +16,9 @@ d:\mongodb\bin\mongod --dbpath d:\data\db
 d:\mongodb\bin\mongo.exe
 ```
 
+### 还有一个
 
-
-
+d:\mongodb\bin\mongo，直接cmd运行这个也行。（cmd跳转到d盘下）
 
 let的作用于比var更小，只作用在那个大括号里
 
