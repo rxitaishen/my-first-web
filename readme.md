@@ -77,3 +77,10 @@ express这样的MVC框架模式，是一个Web项目的基本构成。
 ### 让本地git与远程仓库进行链接
 要让本地的git能与远程仓库链接，在获取到远程仓库的链接之后还要通过配置ssh key才能与远程仓库简历链接
 ssh key如何配置可以查谷歌，几个回车的事，每台电脑有不同的key,这样就可以用家里的电脑操作公司里的远程仓库啦
+
+```
+git add runoob-test.txt 
+git commit -m "添加到远程"
+git push origin master    # 推送到 Github
+```
+
