@@ -84,3 +84,10 @@ git commit -m "添加到远程"
 git push origin master    # 推送到 Github
 ```
 
+当创建一个新仓库的时候 可以重新
+
+```csharp
+git remote add origin https://github.com/AlwaysbeFun/VSCode_Git_Test.git 
+git push -u origin master  //提交到你的仓库
+```
+
